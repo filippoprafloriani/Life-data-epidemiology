@@ -1,5 +1,5 @@
 # Life-data-epidemiology
 
-Pdf files with the paper used.
+Pdf file with the presentation.
 
 Jupyter notebook in Python with the code of fear model.
