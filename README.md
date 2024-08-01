@@ -2,4 +2,4 @@
 
 Pdf file with the presentation.
 
-Jupyter notebook in Python with the code of fear model.
+Jupyter notebook in Python with the code of the behavioural model (fear model).
